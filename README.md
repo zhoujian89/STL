@@ -1,4 +1,4 @@
-STL
+Standard Template Library
 ===
 ##<a name="index"/>目录
 * [Distribution](#distribution)
