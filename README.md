@@ -1,8 +1,9 @@
 Standard Template Library
 ===
 ##<a name="index"/>目录
-* [Distribution](#distribution)
-* [Bayesian](#title)
-* [Regression](#text)
-* [Classification](#text)
-* [Cluster](#text)
+* [Memory Allocation](#distribution)
+* [Function Objects](#title)
+* [Containers](#text)
+* [Iterators](#text)
+* [Algorithm](#text)
+* [Adaptors](#text)
