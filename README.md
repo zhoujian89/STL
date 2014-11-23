@@ -7,3 +7,6 @@ Standard Template Library
 * [Iterators](#text)
 * [Algorithm](#text)
 * [Adaptors](#text)
+
+##<a name="distribution"/>Memory Allocation
+###Memory Allocation
